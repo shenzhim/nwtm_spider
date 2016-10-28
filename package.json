@@ -1,0 +1,16 @@
+{
+  "name": "cheer_test",
+  "version": "0.0.1",
+  "description": "爬虫测试",
+  "main": "cheeriotest.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "author": "shenzm",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "mysql": "^2.11.1",
+    "node-fetch": "^1.6.3"
+  }
+}
